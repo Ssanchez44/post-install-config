@@ -55,7 +55,7 @@ By using departments, you can ensure that tickets are routed to the appropriate 
 
 <p>
   
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/1d04d729-57a6-4835-8eb9-463a57df0759)
 
 </p>
 <p>
@@ -64,7 +64,7 @@ This approach allows you to organize your agents into functional teams, assign t
 <br />
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/17073eed-e58f-4bf1-bcf1-872b07bb0c77)
 
 </p>
 <p>
@@ -74,28 +74,29 @@ Agents (workers) are a critical part of the osTicket system, as they are respons
 
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2fc9f083-0c16-4e56-bbcf-e6dcdce2fa0c)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<p>
-
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket, users (customers) are people who submit support tickets, and you can manage them by adding their details, allowing them to register and submit tickets via the web portal or email, and assigning them to appropriate departments or tickets.
 </p>
 <br />
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/42ee5c32-99bb-4dd1-9e9d-ee10776fb456)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+SLA Plans allow you to set different rules for response and resolution times based on ticket priority or type.
+You can create multiple SLA plans with different conditions for response and resolution times, like 1 hour for high-priority tickets or 24 hours for low-priority tickets.
+</p>
+<br />
+<p>
+
+![image](https://github.com/user-attachments/assets/5afc3001-cc1e-4d5c-b98f-3492bdeaacde)
+
+</p>
+<p>
+Help Topics are categories that help organize and classify the types of support tickets being submitted by users.
 </p>
 <br />
